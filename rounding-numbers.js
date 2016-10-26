@@ -1,11 +1,3 @@
-var roundUp = 1.5
+var a = Math.round(1.5);
 
-
-
-
-
-
-console.log(findround(1.5));
-function findround(a) {
-  return a.roundUp;
-}
+console.log(a);
