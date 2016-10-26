@@ -5,9 +5,9 @@ function length(str){
 
 }
 
-
-if ('orange' > 5) {
+var n = console.log(length('orange'))
+if (n > 5) {
     console.log("The fruit name has more than five characters.");
 } else {
-  console.log("The fruit name has more than five characters.");
+  console.log("The fruit name has less than five characters.");
 }
